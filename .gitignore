@@ -1,0 +1,22 @@
+# Brainstorming companion (visual mockups, local only)
+.superpowers/
+
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+*.tsbuildinfo
+
+# Env / editor
+.env
+.env.local
+.DS_Store
+.vscode/
+.idea/
+
+# Logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
